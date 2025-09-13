@@ -1,2 +1,2 @@
 # Enso
-A minimalistic and unobtrusive Japanese reader for Windows
+Minimalistic and unobtrusive.
